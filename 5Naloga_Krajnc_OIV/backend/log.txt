@@ -1,0 +1,62 @@
+Password: GEslo123, Hashed Password: $2y$12$ipeo/qToQePbQIMamwC0Mu0d5HNNz6WBPPr3KzgYETVFzckGrxFTO, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: GEslo123!, Hashed Password: $2y$12$shqlkDvt.4gT3RM1dgmX7eYFdmSq0/dJYzbVyGbJoaVGEw.N2lWQK, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123, Hashed Password: $2y$12$4wnbWF8NcSP0S3zqKUOjXOnNSdqA0Q70jj9PZE/4g8H9gVPDe7czC, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123!, Hashed Password: $2y$12$Y6mEnyBtoGvUyTxU4H0qzetHcFK08hmIv7lWYnthN2lztYvraQUPq, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123!, Hashed Password: $2y$12$dQQKJ/YoLCJQjB.2jTEKQegyApKfaByKefdii70q.z.MIEUWof0ae, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123!!, Hashed Password: $2y$12$jsKmzyfJGFWUxD5/KXy/4OfChsSxTnaKzTVygK.G55l.O.FhOU8Zi, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123!, Hashed Password: $2y$12$uilunycTccFCfr3.mm30X.TmlS.ch/N5UQrcVpcOM95SogFiT9OpS, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123#, Hashed Password: $2y$12$lLYXKJ1N1NFSj0lCIhtYvevLafOxsrNHnCXPI6hOzcIGJEoxwdD5q, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123#, Hashed Password: $2y$12$i3TUG7WxyLAvnT1Zef87cOKndnf8LcgX0Oug51cBYElMGsGNZWDNC, DB Password: $2y$12$8./s0wxUPveXg0nyBm0gLOc3XPGl.0oxXvc3bokorB0
+Password: Geslo123!, Hashed Password: $2y$12$5qIn5rJUABqEeo/t/qNE5.vedfsovIAMG5lDDg3y2OjSUkPVsAhLC, DB Password: $2y$12$8./s0wxUPveXg0nyBm0gLOc3XPGl.0oxXvc3bokorB0
+Password: Geslo123!, Hashed Password: $2y$12$Df3x.M0Z8cZlhADUB6vEBO/pcRvFV2Eu6kMqt1BDQfAtPKiam0PgK, DB Password: $2y$12$8./s0wxUPveXg0nyBm0gLOc3XPGl.0oxXvc3bokorB0
+Password: Geslo123!, Hashed Password: $2y$12$GjTPRbs9ytTI/.1vsghBu./trBGZWktOmmdWwQFCqDigeJ3j6Zx/K, DB Password: $2y$12$8./s0wxUPveXg0nyBm0gLOc3XPGl.0oxXvc3bokorB0
+Password: Geslo123!, Hashed Password: $2y$12$BF2aM3Oky.x4Szdn1x9EoOaBvn1U7wrQ5vqZBE/Ak4pEKnjjZG/Gi, DB Password: $2y$12$1rFK.k4TfJA7QQus0y14G.x7d0xZNWUw1eNJTLXn5TF
+Password: Geslo123!, Hashed Password: $2y$12$.vXo5Z60wzniZcAmxcPkVOs2DOdbpCSGHMF8wsqDLMyKob5j8Mnee, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$1DOjra84FhvmwMT8j3N0p.4gpUI9PcUlhRrYENmtRTBcP6kyROeGy, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$gyktDD6TnirFQY./5iqPV.U2spxlljtbCDIuPBZquvg.6rVAkMC5., DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$y6JsvzYETON2lX0O.T58reBh6fARyoSekiHJlvddwaqIdXSWF8du2, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$QIn5O.c.sRtX.CCL9SbbOOSWmZyeNDMD8ZqdAD0RrSXuVvc8czpdy, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123, Hashed Password: $2y$12$6J/S3IWdUBcKGxQLRu6pUe5RllxqYdKJ/PWUIP5mLxGRdOHcg.suy, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$WjD9rdy4DA.xNitXpbJ9Y.E.iQ7E6lBDuhpknR90s1xA6uI2.jq0O, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: GEslo123, Hashed Password: $2y$12$C.VRBv3WJ.kQOIXxU1fHJe86i7eQszStOiH69Z.JJcZfDok5aMXD., DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: GEslo123!, Hashed Password: $2y$12$2C7a8nC6ZcS.A8XrQPXgJ.Jf0Sw7kq2S6FdLdeqKLujgEc8r/U7sq, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: eEslo123!, Hashed Password: $2y$12$saMqbcmg/xT6VUh1WH7Bwe/fhU.C.Vi4kHF1cWOpA8LVWgmHrhNTm, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$VutJFwQ7WxGKXJvX6v7NhOQKiLwuMqx0/U4m3KWBH/RElLrrb6ezy, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$Kv93eiFRVOEDHHtA6lpdeuKYLJzWaHnEk.hpGgsEzS5xbNw/aL5VW, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$IpLLEzk6nKFJkIDhGmjOMOlxdiMhyjiE8mq5XKhC1YwBIHUb12FA2, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$of3KFyK.XBy.XHPAu1PFwebsPosxKGwvh.6SZ29iukfJEkIahOsQ6, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$7wMo2Sr7xFrI1w7HBWLfye0cCuVITQVKBpThfOztI0z7CaU2yZphG, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$8eHybFKPI4ea93DJEQfG7u0oM5OnzoimV3pJvNg7q9SAGGcef4gpq, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$JeYYjf2Sg9F8p0cChFnS8.XBN9OqVrAW4pGcUcZtktR03hhCI/9U6, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$CxioK5bqyyEvdAuMKHKtGuhCam0rgdwxEK7H6mFipURyLnLGcogEi, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: GEslo123!, Hashed Password: $2y$12$jR985jP5sS1Gn7q.Un2qUu.ak6JflHuqa8YhgYuKnCcy2/paCux3C, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: Geslo123!, Hashed Password: $2y$12$Xy6UkkAr3c907pk5SoULjelD2Ir8VegC2SZSaE5Q0fqD6BzdlHnYq, DB Password: $2y$12$WnjPAKxLZFrhjolKrV2mO..5qVLNv2xNLN2.lQ.oDwHSYsX6XH9QC
+Password: 1, DB Password: neki.neki@neki.com
+Password: ' or '1' = '1, DB Password: neki.neki@neki.com
+Password: neki.neki@neki.com, DB Password: neki.neki@neki.com
+Password: gg, DB Password: gg
+Password: neki.neki@neki.com, DB Password: neki.neki@neki.com
+Password: neki.neki@neki.com, DB Password: neki.neki@neki.com
+Password: 123, DB Password: 12
+Password: 12, DB Password: 12
+Password: 12, DB Password: 12
+Password: 12, DB Password: 12
+Password: 12, DB Password: 12
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: n1eki.neki@neki.com, Password: ' or '1' = '1
+Email: n1eki.neki@neki.com, Password: ' or '1' = '1
+Email: n1eki.neki@neki.com, Password: 1
+Email: n1eki.neki@neki.com, Password: 2
+Email: n1eki.neki@neki.com, Password: 1
+Email: n1eki.neki@neki.com, Password: a
+Email: n1eki.neki@neki.com, Password: a
+Email: neki.neki@neki.com, Password: 12
+Email: neki.neki@neki.com, Password: ' or '1' = '1
+Email: neki.neki@neki.com, Password: 1
+Email: neki.neki@neki.com, Password: 12
